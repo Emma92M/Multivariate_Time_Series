@@ -19,7 +19,8 @@ To properly utilize the system, it is necessary to install the following package
 
 To run the command line from a Colab notebook, for example, the snippet will look something like this:
 
- 
+ <img width="179" alt="image" src="https://user-images.githubusercontent.com/71643605/208252655-4a727baf-e43b-4e64-8c56-4373dcc2127c.png">
+
 	
 -f is the path to the folder we want to store the data. 
 
