@@ -19,12 +19,13 @@ To properly utilize the system, it is necessary to install the following package
 
 To run the command line from a Colab notebook, for example, the snippet will look something like this:
 
- <img width="300" alt="image" src="https://user-images.githubusercontent.com/71643605/208252655-4a727baf-e43b-4e64-8c56-4373dcc2127c.png">
+ <img width="320" alt="image" src="https://user-images.githubusercontent.com/71643605/208252655-4a727baf-e43b-4e64-8c56-4373dcc2127c.png">
 
 	
 -f is the path to the folder we want to store the data. 
 
- 
+ <img width="451" alt="image" src="https://user-images.githubusercontent.com/71643605/208252685-2e8c7cdf-8dca-4321-add1-374db0fedde3.png">
+
 
 2.	Pre-processing and Visualisation
 
@@ -33,6 +34,7 @@ To run the command line from a Colab notebook, for example, the snippet will loo
 Before running this notebook, make sure to download the necessary satellite-related packages: 
 
 
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/71643605/208252689-6a764309-8031-45fc-87bb-d4ceca6a8d39.png">
 
 
 3.	LSTM
@@ -41,7 +43,8 @@ Long Short-Term Memory (LSTM) is a type of recurrent neural network that is comm
 
 To use LSTM in TensorFlow, you will need to install the TensorFlow library and import it into your code.
 
- 
+ <img width="300" alt="image" src="https://user-images.githubusercontent.com/71643605/208252700-57285fb4-4504-41ec-a604-656461750173.png">
+
 
 4.	NeuralProphet
 
@@ -55,13 +58,15 @@ PyCaret is an open-source, low-code machine learning library in Python that aims
 
 Required Packages:
 
- 
+ <img width="320" alt="image" src="https://user-images.githubusercontent.com/71643605/208252708-fbe147e6-add9-4e6f-847a-9c1acf7e0143.png">
+
 
 •	XGBoost with Scikit-learn
 
 XGBoost (eXtreme Gradient Boosting) is an open-source library for implementing gradient boosting algorithms in Python.
 
- 
+ <img width="320" alt="image" src="https://user-images.githubusercontent.com/71643605/208252715-0954e71c-a9e2-430e-86f5-e8337e201e8b.png">
+
 
 
 6.	Geometric Correction and Visualisation
