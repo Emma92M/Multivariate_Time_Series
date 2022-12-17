@@ -24,7 +24,7 @@ To run the command line from a Colab notebook, for example, the snippet will loo
 	
 -f is the path to the folder we want to store the data. 
 
- <img width="451" alt="image" src="https://user-images.githubusercontent.com/71643605/208252685-2e8c7cdf-8dca-4321-add1-374db0fedde3.png">
+ <img width="480" alt="image" src="https://user-images.githubusercontent.com/71643605/208252685-2e8c7cdf-8dca-4321-add1-374db0fedde3.png">
 
 
 2.	Pre-processing and Visualisation
@@ -34,7 +34,7 @@ To run the command line from a Colab notebook, for example, the snippet will loo
 Before running this notebook, make sure to download the necessary satellite-related packages: 
 
 
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/71643605/208252689-6a764309-8031-45fc-87bb-d4ceca6a8d39.png">
+<img width="320" alt="image" src="https://user-images.githubusercontent.com/71643605/208252689-6a764309-8031-45fc-87bb-d4ceca6a8d39.png">
 
 
 3.	LSTM
@@ -43,7 +43,7 @@ Long Short-Term Memory (LSTM) is a type of recurrent neural network that is comm
 
 To use LSTM in TensorFlow, you will need to install the TensorFlow library and import it into your code.
 
- <img width="300" alt="image" src="https://user-images.githubusercontent.com/71643605/208252700-57285fb4-4504-41ec-a604-656461750173.png">
+ <img width="330" alt="image" src="https://user-images.githubusercontent.com/71643605/208252700-57285fb4-4504-41ec-a604-656461750173.png">
 
 
 4.	NeuralProphet
