@@ -24,7 +24,7 @@ To run the command line from a Colab notebook, for example, the snippet will loo
 	
 -f is the path to the folder we want to store the data. 
 
- <img width="619" alt="image" src="https://user-images.githubusercontent.com/71643605/208252685-2e8c7cdf-8dca-4321-add1-374db0fedde3.png">
+ <img width="810" alt="image" src="https://user-images.githubusercontent.com/71643605/208252685-2e8c7cdf-8dca-4321-add1-374db0fedde3.png">
 
 
 2.	Pre-processing and Visualisation
